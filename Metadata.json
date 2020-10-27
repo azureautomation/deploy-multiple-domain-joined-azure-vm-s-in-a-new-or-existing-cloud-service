@@ -1,0 +1,20 @@
+{
+    "Author": "Sachin Gupta (sachinitsme)",
+    "ContentSize": 2603,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-multiple-domain-joined-azure-vm's-in-a-new-or-existing-cloud-service/master/VMAutomation.ps1",
+    "DownloadCount": 1106,
+    "Id": "Multiple-Domain-joined-61ce5a7e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 358,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-10-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Deploy Multiple Domain joined Azure VM's in a new or existing Cloud Service",
+    "Title": "Deploy Multiple Domain joined Azure VM's in a new or existing Cloud Service",
+    "UpdatedDate": "2017-2-24T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-multiple-domain-joined-azure-vm's-in-a-new-or-existing-cloud-service",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
